@@ -1,6 +1,7 @@
 from stack import stack
 s=stack()
 l=input()
+#hi
 t=1
 for i in range(len(l)):
     if l[i] =="{" or l[i]=="[" or l[i]=="(":
